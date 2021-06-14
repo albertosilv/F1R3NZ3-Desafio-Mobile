@@ -4,36 +4,23 @@
 ![Badge](https://img.shields.io/badge/npm-7.16.0-blue)
 ![Badge](https://img.shields.io/badge/react-16.3.1-blue)]
 
-## O desafio Mobile consiste no desenvolvimento de uma tela Profile e um sistema de navegação.
-### Para a tela Profile, foi adicionado os seguintes dados:
+## The Mobile challenge consists of developing a Profile screen and a navigation system.
+### For the Profile screen, the following data has been added:
 
-- [x] Nome
+- [x] Name
 - [x] Instagram
 - [x] Whatsapp
-- [x] Localidade
+- [x] Locality
 - [x] Bio
 - [x] Likes
-- [x] Amigos
+- [x] Friends
 
--[x]Nome
--[x]Instagram
--[x]Whatsapp
--[x]Localidade
--[x]Bio
--[x]Likes
--[x]Amigos
+### In addition, it should have the following features:
 
-<<<<<<< HEAD
-### Além disso, deveria ter as seguintes funcionalidades:
-
--[x]Add Amigos
--[x]Like
-=======
-- [x] Add Amigos
+- [x] Add Friends
 - [x] Like
->>>>>>> 595d7e36fd4e66b8646da618d96739dc91b84ad9
 
-### Instalação
+### Installation
 Download the repository:
 ```
 git clone https://github.com/albertosilv/F1R3NZ3-Desafio-Mobile.git
@@ -49,8 +36,13 @@ npm i
 or
 ```
 yarn
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 595d7e36fd4e66b8646da618d96739dc91b84ad9
+
+### 🛠 Technology
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Styled Componentes](https://styled-components.com/)
+- [React Navigation](https://reactnavigation.org/)
