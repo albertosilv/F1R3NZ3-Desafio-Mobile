@@ -15,7 +15,7 @@ const Stack = createStackNavigator()
 const Tab = createMaterialBottomTabNavigator();
 const App = () => {
     return (
-        <Tab.Navigator tabBarOptions={{ showLabel: false }} initialRouteName="Home" inactiveColor="#9c9497" activeColor="#ffffff" barStyle={{ backgroundColor: '#62555a' }} >
+        <Tab.Navigator tabBarOptions={{ showLabel: false }} initialRouteName="Profile" inactiveColor="#9c9497" activeColor="#ffffff" barStyle={{ backgroundColor: '#62555a' }} >
             <Tab.Screen name="Home" component={Home} options={{
                 tabBarIcon: ({ color }) => (
                     <Icon name="home" color={color} size={26} />

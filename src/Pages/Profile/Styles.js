@@ -141,6 +141,6 @@ export const WhatsappNumber = styled.Text`
 export const Bio = styled.Text`
     top:20%
     text-align:center;
-    font-size:28px;
+    font-size:25px;
     font-style: italic;
 `

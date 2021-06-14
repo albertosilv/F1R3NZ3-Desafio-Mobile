@@ -9,7 +9,7 @@ function Login({navigation}) {
                 </Header>
                 <Section>
                     <Input placeholder="Email" />
-                    <Input placeholder="Senha" />
+                    <Input placeholder="Senha" secureTextEntry={true} />
                     <ButtonLogin onPress={() => navigation.navigate('App')}><Texto>Login</Texto></ButtonLogin>
                     <ButtonCreate><Texto>Criar Conta</Texto></ButtonCreate>
                 </Section>
