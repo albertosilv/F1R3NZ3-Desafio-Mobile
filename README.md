@@ -44,5 +44,7 @@ yarn
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [Styled Componentes](https://styled-components.com/)
+- [Styled Components](https://styled-components.com/)
 - [React Navigation](https://reactnavigation.org/)
+
+
