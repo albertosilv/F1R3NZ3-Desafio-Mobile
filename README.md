@@ -47,4 +47,5 @@ yarn
 - [Styled Components](https://styled-components.com/)
 - [React Navigation](https://reactnavigation.org/)
 
+<img width="250" style="border-radius: 5px" height="450" src="https://drive.google.com/file/d/1fBgAn2JE7k1emiCyHPdREn02b_kaPLI6/view" alt="app">
 
