@@ -5,18 +5,18 @@
 ![Badge](https://img.shields.io/badge/npm-7.16.0-blue)
 ![Badge](https://img.shields.io/badge/react-16.3.1-blue)
 
--[x]Nome
--[x]Instagram
--[x]Whatsapp
--[x]Localidade
--[x]Bio
--[x]Likes
--[x]Amigos
+- [x] Nome
+- [x] Instagram
+- [x] Whatsapp
+- [x] Localidade
+- [x] Bio
+- [x] Likes
+- [x] Amigos
 
 ## Além disso, deveria ter as seguintes funcionalidades:
 
--[x]Add Amigos
--[x]Like
+- [x] Add Amigos
+- [x] Like
 
 ### Instalação
 Download the repository:
